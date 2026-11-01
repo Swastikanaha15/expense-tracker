@@ -1,0 +1,130 @@
+{
+  "food": [
+  "groceries",
+  "fruits_vegetables",
+  "dairy_bakery",
+  "dining_out",
+  "coffee_tea",
+  "snacks",
+  "delivery_fees",
+  "other"
+  ],
+  "transport": [
+  "public_transport",
+  "taxi_ride",
+  "cab_ride",
+  "vehicle_maintenance",
+  "fuel",
+  "parking",
+  "tolls",
+  "other"
+  ],
+  "entertainment": [
+    "movies",
+    "concerts",
+    "sports",
+    "subscriptions",
+    "other"
+  ],   
+  "health": [
+    "medications",
+    "doctor_visits",
+    "gym",
+    "other"
+  ],
+  "utilities": [
+    "electricity",
+    "water",
+    "gas",
+    "internet",
+    "mobile_phone",
+    "tv",
+    "other"
+  ],  
+  "family_kids": [
+    "childcare",
+    "school_supplies",
+    "activities",
+    "other"
+  ],
+  "education": [
+    "tuition",
+    "books",
+    "courses",
+    "other"
+  ],
+  "personal_care": [
+    "haircuts",
+    "skincare",
+    "cosmetics",
+    "other"
+  ],
+  "shopping": [
+    "clothing",
+    "electronics",
+    "home_goods",
+    "other"
+  ],
+  "travel": [
+    "flights",
+    "hotels",
+    "car_rental",
+    "other"
+  ],
+  "gifts": [
+    "birthday",
+    "wedding",
+    "holiday",
+    "other"
+  ],
+  "subscriptions": [
+    "streaming_services",
+    "magazines",
+    "software",
+    "other"
+  ],
+  "investments": [
+    "stocks",
+    "bonds",
+    "mutual_funds",
+    "other"
+  ],
+  "savings": [
+    "emergency_fund",
+    "retirement",
+    "other"
+  ],
+  "charity": [
+    "donations",
+    "other"
+  ],
+  "business": [
+    "supplies",
+    "travel",
+    "other"
+  ],
+  "pets": [
+    "food",
+    "vet",
+    "other"
+  ],
+  "taxes": [
+    "income_tax",
+    "property_tax",
+    "other"
+  ],
+  "home": [
+    "rent",
+    "mortgage",
+    "repairs",
+    "other"
+  ],
+  "finance_fees": [
+    "bank_fees",
+    "loan_fees",
+    "other"
+  ],
+  "miscellaneous": [
+    "other"
+  ]
+}
